@@ -20,4 +20,5 @@ mvn -q compile exec:java -Dexec.mainClass=Main
 Ou compile e execute `Main` com `java`. Vários tabuleiros até EOF.
 
 ## Beecrowd
-Os três exemplos oficiais (saídas 7, 5 e 0) estão nos testes. No juiz, cole `Main` e `AttackingRooks` no mesmo arquivo e tire o `public` da classe auxiliar.
+Os três exemplos oficiais (saídas 7, 5 e 0) estão nos testes. <img width="1001" height="307" alt="image" src="https://github.com/user-attachments/assets/f9ff9c6c-8174-40c3-adc1-3b916158eccc" />
+
